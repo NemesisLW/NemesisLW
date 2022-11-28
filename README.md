@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NemesisLW&count_private=true&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NemesisLW&layout=compact&hide=css,scss)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NemesisLW&layout=compact&hide=css,scss&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NemesisLW)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NemesisLW&theme=dark)](https://git.io/streak-stats)
