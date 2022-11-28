@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NemesisLW
-- 👀 I’m interested in ...Web3 Development.
+- 👀 I’m interested in ...Web3.
 - 🌱 I’m currently learning ...Solidity,Truffle. 
-- 💞️ I’m looking to collaborate on ...Defi,DAOs,Metaverse
 - 📫 How to reach me ...Nemesis#9535(Discord)
 
 <!---
