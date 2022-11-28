@@ -13,4 +13,5 @@ You can click the Preview link to take a look at your changes.
 | ------------- | ------------- |
 
 
-[<img align="center" src="https://streak-stats.demolab.com/?user=NemesisLW&theme=darcula" alt="Arghya's github streak" />](https://git.io/streak-stats)
+| [<img align="center" src="https://streak-stats.demolab.com/?user=NemesisLW&theme=darcula" alt="Arghya's github streak" />](https://git.io/streak-stats) |
+| ------------- |
