@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NemesisLW&layout=compact&hide=css,scss&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NemesisLW&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NemesisLW&theme=darcula)](https://git.io/streak-stats)
