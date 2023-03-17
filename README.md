@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NemesisLW
 - 👀 I’m interested in ...Web3.
-- 🌱 I’m currently learning ...Solidity,Truffle. 
+- 🌱 I’m currently learning ...Solidity,Hardhat,Truffle. 
 - 📫 How to reach me ...Nemesis#9535(Discord)
 
 <!---
